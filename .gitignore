@@ -1,0 +1,17 @@
+## .gitignore
+
+# Python
+*.pyc
+__pycache__
+
+# GitHub
+.github
+
+# Virtual environment
+venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
